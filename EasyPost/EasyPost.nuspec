@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>EasyPost-Official</id>
-    <title>EasyPost (Official)</title>
-    <version>1.0.1.5</version>
+    <id>EasyPost-Official-v4.0</id>
+    <title>EasyPost (Official v4.0)</title>
+    <version>1.0.0.0</version>
     <authors>EasyPost</authors>
     <owners>EasyPost</owners>
     <projectUrl>http://www.easypost.com</projectUrl>
